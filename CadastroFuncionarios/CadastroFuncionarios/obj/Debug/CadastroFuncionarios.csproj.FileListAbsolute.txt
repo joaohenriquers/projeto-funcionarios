@@ -1,0 +1,15 @@
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.exe.config
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.exe
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.pdb
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\EntityFramework.dll
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\EntityFramework.xml
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csprojResolveAssemblyReference.cache
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.Form1.resources
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.frmAdicionarEditarFuncionario.resources
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.Properties.Resources.resources
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csproj.GenerateResource.Cache
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.exe
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.pdb
+C:\C#\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.HoraExtra.resources
